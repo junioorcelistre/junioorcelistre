@@ -43,4 +43,4 @@
 
 [instagram]: https://www.instagram.com/juniorcelistre/
 [linkedin]: https://www.linkedin.com/in/milton-luiz-celistre-júnior-84a14962
-[mail]: juniorcelistre@gmail.com
+[mail]: mailto:juniorcelistre@gmail.com
