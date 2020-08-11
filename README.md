@@ -4,7 +4,7 @@
 - 🔭 Atualmente Trabalho na PUCRS, como desenvolvedor Fullstack!
 - 🌱 Sou graduando de Sistemas para Internet
 - 👀 Tento acompanhar a comunidade Java 
-- ☕️ Java é minha principal stack 
+- ☕️ Java(Spring) é minha principal stack 
 - ⚡ Fun fact: Adoro ler quadrinhos
 
 ### Contatos:
