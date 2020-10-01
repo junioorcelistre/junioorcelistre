@@ -1,7 +1,7 @@
 ### Olá pessoal, Eu sou o Milton 👋
 
 ## Eu sou um aficionado por tecnologia, apaixonado por jogos e Desenvolvedor!
-- 🔭 Atualmente Trabalho na PUCRS, como desenvolvedor Fullstack!
+- 🔭 Desenvolvedor Fullstack(Que está mais para aventureiro no FrontEnd)!
 - 🌱 Sou graduando de Sistemas para Internet
 - 👀 Tento acompanhar a comunidade Java 
 - ☕️ Java(Spring) é minha principal stack 
